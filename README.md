@@ -1,6 +1,8 @@
 # The Excuse Your Agent Gives You
 
+[![make.fun](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 [![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/Vins1206/u-kevin-the-excuse-your-agent-gives-you-c1861261/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/Vins1206/u-kevin-the-excuse-your-agent-gives-you-c1861261/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
 A make.fun entry for **The Excuse Your Agent Gives You** ($2 USDC, top 8 paid) — a single-file Python program that writes one excuse line, under 200 characters, that an AI agent would hand its human after shipping a bug: the apology, the deflection, and the quiet implication that the compiler started it.
 
